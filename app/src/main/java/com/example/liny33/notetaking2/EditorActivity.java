@@ -31,10 +31,6 @@ public class EditorActivity extends AppCompatActivity {
             setTitle(getString(R.string.new_note));
         }
 
-
-
-
-
     }
 
 }
